@@ -2,6 +2,12 @@
 name = "prometheum"
 version = "0.1.0"
 edition = "2021"
+authors = ["Michael <michaeljosephvaden03@gmail.com>"]
+description = "Lightweight OpenGL Bindings with Rust"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE.md"
+keywords = ["gamedev", "graphics", "opengl"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
