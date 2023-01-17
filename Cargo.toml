@@ -3,9 +3,9 @@ name = "prometheum"
 version = "0.1.0"
 edition = "2021"
 authors = ["Michael <michaeljosephvaden03@gmail.com>"]
-description = "Lightweight OpenGL Bindings with Rust"
+description = "Lightweight Game Engine with Rust"
 readme = "README.md"
 license-file = "LICENSE.md"
-keywords = ["gamedev", "graphics", "opengl"]
+keywords = ["gamedev", "graphics", "opengl", "vulkan"]
 
 [dependencies]

@@ -1,7 +1,7 @@
 <img 
     src=".github/prometheum.svg"
-    alt="Promethium Logo"
+    alt="Prometheum Logo"
     style="height: 12vw; width: auto; float: left"
 />
-# Promethium - Lightweight OpenGL Bindings with Rust
+# Promethium - Lightweight Game Engine with Rust
 
