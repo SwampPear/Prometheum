@@ -1,6 +1,6 @@
 # Rust Stuff
-Cargo.lock
-.Cargo.toml.swp
+./Cargo.lock
+./.Cargo.toml.swp
 /target
 
 # Notes and Such
