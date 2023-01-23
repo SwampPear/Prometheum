@@ -10,3 +10,4 @@ keywords = ["gamedev", "engine"]
 
 [dependencies]
 prometheum-metal = { path = '../prometheum-metal' }
+prometheum-vulkan = { path = '../prometheum-vulkan' }

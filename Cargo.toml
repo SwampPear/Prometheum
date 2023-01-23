@@ -3,4 +3,5 @@
 members = [
 	"prometheum",
 	"prometheum-metal",
+	"prometheum-vulkan",
 ]
