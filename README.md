@@ -1,5 +1,5 @@
 <img 
-    src=".github/prometheum.svg"
+    src="assets/prometheum.svg"
     alt="Prometheum Logo"
     style="height: 12vw; width: auto; float: left"
 />
