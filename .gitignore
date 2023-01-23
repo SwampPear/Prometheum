@@ -1,4 +1,10 @@
+# Rust Stuff
+Cargo.lock
+.Cargo.toml.swp
 /target
-/Cargo.lock
+
+# Notes and Such
 /notes
+
+# Scripts
 push.sh
